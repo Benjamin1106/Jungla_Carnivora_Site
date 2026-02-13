@@ -1,0 +1,1 @@
+import{z as t,A as o}from"./index-CRHRRv6l.js";const r=t("productsAccessories",{state:()=>({selectAccessoryData:void 0}),getters:{},actions:{setSelectAccessoryProduct(s){this.selectAccessoryData=s}}}),a=()=>{const s=r(),{selectAccessoryData:e}=o(s);return{selectProductAccessory:c=>{s.setSelectAccessoryProduct(c)},selectAccessoryData:e}};export{a as u};
